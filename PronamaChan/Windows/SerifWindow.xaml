@@ -1,0 +1,28 @@
+﻿<Window x:Class="PronamaChan.SerifWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextWindow" Height="170" Width="300"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        ShowInTaskbar="False"
+        SourceInitialized="Window_SourceInitialized"
+        >
+    <Grid>
+
+        <Image Source="/PronamaChan;component/Res/Image/SerifBack.png"/>
+        
+        <TextBlock x:Name="Serif"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   Width="245"
+                   Height="100"
+                   Foreground="White"
+                   TextWrapping="Wrap"
+                   FontSize="18"
+                   Margin="15, 0, 0, 0"
+                   >
+        </TextBlock>
+    </Grid>
+</Window>

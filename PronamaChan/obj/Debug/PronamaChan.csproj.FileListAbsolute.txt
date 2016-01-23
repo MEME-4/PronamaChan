@@ -1,0 +1,23 @@
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\bin\Debug\PronamaChan.exe.config
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\bin\Debug\PronamaChan.exe
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\bin\Debug\PronamaChan.pdb
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\App.g.cs
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\PronamaChan_MarkupCompile.cache
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\PronamaChan.g.resources
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\PronamaChan.Properties.Resources.resources
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\PronamaChan.csproj.GenerateResource.Cache
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\PronamaChan.exe
+c:\users\administer\documents\visual studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\PronamaChan.pdb
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\Windows\SerifWindow.baml
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\Windows\SerifWindow.g.cs
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\Windows\MainWindow.baml
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\obj\Debug\PronamaChan.csproj.ResolveComReference.cache
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\bin\Debug\Config\TimeAction.ini
+C:\Users\Administer\Documents\Visual Studio 2013\Projects\PronamaChan\PronamaChan\bin\Debug\Config\System.ini
+C:\Users\Administer\Desktop\新しいフォルダー\PronamaChan\bin\Debug\PronamaChan.exe.config
+C:\Users\Administer\Desktop\新しいフォルダー\PronamaChan\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administer\Desktop\新しいフォルダー\PronamaChan\obj\Debug\PronamaChan.csproj.ResolveComReference.cache
+C:\Users\Administer\Desktop\新しいフォルダー\PronamaChan\obj\Debug\PronamaChan.exe
+C:\Users\Administer\Desktop\新しいフォルダー\PronamaChan\obj\Debug\PronamaChan.pdb
